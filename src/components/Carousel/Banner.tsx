@@ -4,7 +4,7 @@ const Banner = () => {
       <div class="grid col-span-6 text-center ">
         <div class="max-w-full bg-white-800 text-5xl text-black dark:text-white  text-start md:mt-40 mt-7 md:flex md:flex-wrap">
           Your Vision, Realized Through
-          <span class=" text-blue-600 font-bold">{""}Crafted Solutions </span>
+          <span class=" text-blue-600 font-bold">Crafted Solutions </span>
           with Zattech !
         </div>
 
