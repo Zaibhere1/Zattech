@@ -395,4 +395,424 @@ export const Client = [
     name: "Rahman Cotton Mills Limited",
     url: "/updated/dat.png",
   },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
+  {
+    name: "Telenor",
+    url: "/updated/telenor.png",
+  },
+  {
+    name: "Mönsterås Kommun",
+    url: "/updated/monsteras.png",
+  },
+  {
+    name: "Blanketkullens Bigård",
+    url: "/updated/bigard.png",
+  },
+  {
+    name: "Saif Group",
+    url: "/updated/saif.png",
+  },
+  {
+    name: "Gidon",
+    url: "/updated/gidn.png",
+  },
+  {
+    name: "MUARE Renaissance Foundation",
+    url: "/updated/muare.png",
+  },
+  {
+    name: "Suzuki Charsadda Motors",
+    url: "/updated/suzuki.png",
+  },
+  {
+    name: "Capital Development Authority",
+    url: "/updated/cda.png",
+  },
+  {
+    name: "Skytech",
+    url: "/updated/skytech.png",
+  },
+  {
+    name: "AdvanGram Technology",
+    url: "/updated/advangram.png",
+  },
+  {
+    name: "MECO",
+    url: "/updated/meco.png",
+  },
+  {
+    name: "HMA",
+    url: "/updated/hma.png",
+  },
+  {
+    name: "Miisoft",
+    url: "/updated/miisoft.png",
+  },
+  {
+    name: "Safran",
+    url: "/updated/safran.png",
+  },
+  {
+    name: "Rahman Cotton Mills Limited",
+    url: "/updated/dat.png",
+  },
 ];

@@ -57,16 +57,6 @@ const Header = () => {
           >
             <span class="font-bold text-xl">Home</span>
           </a>
-          <a
-            href="/about"
-            class={
-              location.pathname === "/about"
-                ? " underline underline-offset-8 text-cyan-600 active lg:inline-flex lg:w-auto w-full px-3 py-2 rounded  items-center justify-center hover:text-cyan-500  md:hover:scale-125 duration-1000"
-                : "  dark:text-white lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-black items-center justify-center hover:text-cyan-500  md:hover:scale-125 duration-1000"
-            }
-          >
-            <span class="font-bold text-xl">About</span>
-          </a>
           <div class="relative group">
             <a
               href="/services"
@@ -102,6 +92,17 @@ const Header = () => {
               </a>
             </div>
           </div>
+          <a
+            href="/about"
+            class={
+              location.pathname === "/about"
+                ? " underline underline-offset-8 text-cyan-600 active lg:inline-flex lg:w-auto w-full px-3 py-2 rounded  items-center justify-center hover:text-cyan-500  md:hover:scale-125 duration-1000"
+                : "  dark:text-white lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-black items-center justify-center hover:text-cyan-500  md:hover:scale-125 duration-1000"
+            }
+          >
+            <span class="font-bold text-xl">About</span>
+          </a>
+
           <a
             href="/products"
             class={
